@@ -261,6 +261,8 @@ ol {
 	padding: 25px 0;
 	display: inline-block;
 	margin-right: 250px;
+	width: 80px;
+	height: 80px;
 }
 
 .header__logo a {
